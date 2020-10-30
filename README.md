@@ -3,12 +3,13 @@
 the timeless classic pong built with HTML and JavaScript
 
 **Note:** that the program was built with Brackets.io - which can be downloaded <a href="http://brackets.io/">HERE</a>
+
 ## LocalHost Instructions:
->Brackets instillation completed.  
+>Download and Install Brackets.io from the link above.  
 
 >Clone repo for pong from "https://github.com/dbubela/Pong.js.git". 
 
->Right click folder and select "open as brackets project". 
+>Right click folder and select 'open as brackets project'. 
 
 >Select "lightning bolt" icon in top right of Brackets window. 
 
@@ -16,9 +17,10 @@ the timeless classic pong built with HTML and JavaScript
 
 **Note:** User(Left side) paddles are controlled with mouse movement 
 
-There is also a file named >pong workflow which is the summation of my raw workflow from concept to conception. 
+There is also a file named 'pong workflow'... which is the summation of my raw workflow and train of thought from conception to creation. 
+
 **Note:** This is an absolute dumpsterfire - It's easy to lose yourself in this labrynth
 
-Thanks for stopping by my Repo - Feel free to commit any questions, comments, or cursewords (as long as it's mildly constructive).
+Thanks for stopping by my humble repository. Please feel free to commit any questions, comments and cursewords (as long as it's mildly constructive).
 
 
