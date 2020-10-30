@@ -2,7 +2,7 @@
 
 the timeless classic pong built with HTML and JavaScript
 
-**Note:** that the program was built with Brackets.io - which can be donwloaded <a href="http://brackets.io/">HERE</a>
+**Note:** that the program was built with Brackets.io - which can be downloaded <a href="http://brackets.io/">HERE</a>
 ## LocalHost Instructions:
 >Brackets instillation completed.  
 
