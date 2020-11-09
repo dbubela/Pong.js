@@ -5,6 +5,7 @@ the timeless classic pong built with HTML and JavaScript
 ## LocalHost Instructions:
 
 >Clone repo for pong from "https://github.com/dbubela/Pong.js.git". 
+
 >Begin the game and test your skills against the simple bot! 
 
 **Note:** User(Left side) paddles are controlled with mouse movement 
